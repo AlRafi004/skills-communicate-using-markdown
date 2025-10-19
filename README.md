@@ -1,5 +1,21 @@
 <header>
 
+# Selamat Datang di "Communicate using Markdown"! 👋
+
+## Apa itu Markdown?
+Markdown adalah bahasa ringan untuk memberi format pada teks di GitHub.
+
+### Contoh Header
+# Ini adalah H1 Header
+## Ini adalah H2 Header
+###### Ini adalah H6 Header
+
+### Tempat Menggunakan Markdown
+- Di komentar issue, pull request, atau diskusi
+- Di file README.md
+- Di Gists untuk berbagi potongan kode atau catatan
+
+
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
